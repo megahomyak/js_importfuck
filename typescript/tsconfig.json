@@ -3,6 +3,8 @@
         "paths": {
             "#shared*": ["./shared", "./shared*"]
         },
-        "": ""
+        "module": "nodenext",
+        "moduleResolution": "nodenext",
+        "outDir": "./out"
     }
 }
